@@ -1,0 +1,2 @@
+--- RELATÓRIO DE FUNCIONÁRIOS ATIVOS ---
+ID: 001 | Nome Completo: Jose da Silva | Status: Ativo | Cargo: Analista
